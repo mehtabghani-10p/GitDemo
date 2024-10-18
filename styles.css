@@ -15,3 +15,9 @@ body {
     align-items: center;
     height: 100vh;
 }
+
+/* Container to hold buttons side by side */
+.button-container {
+    display: flex;
+    gap: 20px;
+}
